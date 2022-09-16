@@ -1,0 +1,19 @@
+• What is a gitignore file and what should it include for a Java project?
+• What does fast-forward in git mean?
+• Why should youhavedifferent branches?
+• In a project how many remote Git repositories do you usually have?
+
+Answer1:
+gitignore is a file which ignores the temperory files(cache files); e.g. .jar, environment files, etc...
+
+Answer2:
+In Git, to update the HEAD pointer so that its new value is a direct points of the previous value is referred as "fast forwarding." 
+In other words, the parent, grandparent, or great-grandparent is the prior value.
+
+Answer3:
+Git branches come in handy for a project's development in a number of circumstances. From the main stable master branch, 
+the branches form a completely separate or separated course of development. Many advantages come from doing this, 
+such as the ability to add new features to our stable branch by creating a new feature branch.
+
+Answer4:
+It depends on size of project to update number of repo.
